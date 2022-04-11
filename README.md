@@ -37,9 +37,9 @@ To see similar projects with additional services, please visit https://github.co
 * [docker](https://docs.docker.com/install/)
 * [pygmy](https://github.com/pygmystack/pygmy)
 
-**OR**
+<s>**OR**
 
-* [Lando](https://docs.lando.dev/basics/installation.html#system-requirements)
+* [Lando](https://docs.lando.dev/basics/installation.html#system-requirements)</s>
 
 ## Local environment setup - pygmy
 
@@ -63,7 +63,7 @@ To see similar projects with additional services, please visit https://github.co
 * If any steps fail, you're safe to rerun from any point.
 Starting again from the beginning will just reconfirm the changes.
 
-## Local environment setup - Lando
+<s>## Local environment setup - Lando
 
 This repository is set up with a `.lando.yml` file, which allows you to use Lando instead of pygmy for your local development environment.
 
@@ -91,7 +91,7 @@ lando drush si -y
 
 6. Visit the new site @ `http://drupal9-postgres.lndo.site`
  
-7. For more information on how to configure your site, check out the [documentation](https://docs.lando.dev/config/lagoon.html).
+7. For more information on how to configure your site, check out the [documentation](https://docs.lando.dev/config/lagoon.html).</s>
 
 ## What does the template do?
 
