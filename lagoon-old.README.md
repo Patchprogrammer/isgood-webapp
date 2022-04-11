@@ -1,10 +1,3 @@
-# isgood-webapp
-🎉  New isgood WebApp (re-)build for 2022 Launch  🚀 
-
-
-___
-## below from Lagoon Starter Template
-___
 # Base template for Drupal 9 projects hosted on Lagoon
 
 This template includes everything necessary to run on [Lagoon](https://www.github.com/uselagoon/lagoon) (in both the local development environments or on hosted Lagoon clusters.)
@@ -25,13 +18,13 @@ To see similar projects with additional services, please visit https://github.co
 ## Requirements
 
 * [docker](https://docs.docker.com/install/)
-* [pygmy](https://github.com/pygmystack/pygmy)
+* [pygmy-go](https://www.github.com/fubarhouse/pygmy-go)
 
 **OR**
 
 * [Lando](https://docs.lando.dev/basics/installation.html#system-requirements)
 
-## Local environment setup - pygmy
+## Local environment setup - pygmy-go
 
 1. Checkout this project repo and confirm the path is in Docker's file sharing config - https://docs.docker.com/docker-for-mac/#file-sharing
 
@@ -39,7 +32,7 @@ To see similar projects with additional services, please visit https://github.co
     git clone https://github.com/lagoon-examples/drupal9-postgres.git drupal9-postgres && cd $_
     ```
 
-2. Make sure you don't have anything running on port 80 on the host machine (like a web server) then run `pygmy up`
+2. Make sure you don't have anything running on port 80 on the host machine (like a web server) then run `pygmy-go up`
 
 3. Build and start the build images:
 
@@ -65,7 +58,7 @@ This repository is set up with a `.lando.yml` file, which allows you to use Land
     git clone https://github.com/lagoon-examples/drupal9-postgres.git drupal9-postgres && cd $_
     ```
 
-3. Make sure you have pygmy stopped. Run `pygmy stop` to be sure.
+3. Make sure you have pygmy-go stopped. Run `pygmy-go stop` to be sure.
 
 4. We already have a Lando file in this repository, so we just need to run the following command to get Lando up:
 
