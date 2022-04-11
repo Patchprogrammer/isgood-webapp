@@ -1,11 +1,21 @@
 # isgood-webapp
 🎉  New isgood WebApp (re-)build for 2022 Launch  🚀 
 
+___
+^
+
+^
+
+^
+
+^
+
+## below from Lagoon Starter Template Readme 
+> To be evolved, as the dev evolves
 
 ___
-## below from Lagoon Starter Template
-___
-# Base template for Drupal 9 projects hosted on Lagoon
+
+## Base template for Drupal 9 projects hosted on Lagoon
 
 This template includes everything necessary to run on [Lagoon](https://www.github.com/uselagoon/lagoon) (in both the local development environments or on hosted Lagoon clusters.)
 
