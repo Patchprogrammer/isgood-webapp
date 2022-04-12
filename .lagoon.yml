@@ -1,6 +1,6 @@
 docker-compose-yaml: docker-compose.yml
 
-project: drupal9-postgres
+project: isgood-webapp
 
 tasks:
 #   pre-rollout:
