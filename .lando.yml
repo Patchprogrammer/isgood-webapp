@@ -1,4 +1,4 @@
-name: drupal9-postgres
+name: isgood-webapp
 recipe: lagoon
 config:
   flavor: drupal
