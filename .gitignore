@@ -7,7 +7,7 @@
 /sites/*/*services*.yml
 
 # Ignore paths that may contain user-generated content
-/web/sites/*/files/php/twig/
+# /web/sites/*/files/php/twig/
 /sites/*/public
 /sites/*/private
 /sites/*/files-public
