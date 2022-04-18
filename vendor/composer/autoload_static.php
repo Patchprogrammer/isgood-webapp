@@ -623,8 +623,8 @@ class ComposerStaticInitec0f398f68e708f0477753cfb7f11858
         ),
         'Behat\\Mink\\Driver\\' => 
         array (
-            0 => __DIR__ . '/..' . '/behat/mink-selenium2-driver/src',
-            1 => __DIR__ . '/..' . '/friends-of-behat/mink-browserkit-driver/src',
+            0 => __DIR__ . '/..' . '/friends-of-behat/mink-browserkit-driver/src',
+            1 => __DIR__ . '/..' . '/behat/mink-selenium2-driver/src',
         ),
         'Behat\\Mink\\' => 
         array (

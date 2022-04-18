@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '72caf726b8d1c774c1a757d884631e4adfc97364',
+        'reference' => '558ddc813bd5d915f3ad7eeba3ae9f485939821b',
         'name' => 'lagoon-examples/drupal9-postgres',
         'dev' => true,
     ),
@@ -1105,7 +1105,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '72caf726b8d1c774c1a757d884631e4adfc97364',
+            'reference' => '558ddc813bd5d915f3ad7eeba3ae9f485939821b',
             'dev_requirement' => false,
         ),
         'laminas/laminas-diactoros' => array(
