@@ -1,14 +1,3 @@
-# isgood-webapp
-
-🎉 New isgood WebApp (re-)build for 2022 Launch 🚀
-
----
-
-## Docs 
-
-📖 [docs.isgood.ai](https://docs.isgood.ai/)
-
-
 <div id="top"></div>
 <!--
 *** The isgood.ai ReadME is based on ->
@@ -18,23 +7,6 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -97,16 +69,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](.github/images/isgood-github-grab.png)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 Please see our docs for the latest info @[docs.isgood.ai](https://docs.isgood.ai/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -122,14 +92,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Dev Roadmap
+## Roadmap
 
 We `build in public` and manage our **Dev Roadmap** as releases.
-[View Release Roadmap »](https://docs.isgood.ai/releases).
+
+Click to [View Roadmap Details »](https://docs.isgood.ai/releases).
 
 See the [open issues](https://github.com/for-good/isgood-webapp/issues) for a full list of current dev tasks, features and known issues.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -147,6 +116,21 @@ We'd also love for you to join us at a community event (starting again soon) or 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- LICENSE -->
@@ -177,7 +161,7 @@ Current Dev & Tech Sponsors
 * [Github: GitOps Sponsor](https://github.com)
 * [AWS: CloudInfra Sponsor](https://aws.amazon.com/)
 * [Gitbook: Docs Sponsor](https://gitbook.com)
-* [Template for this ReadME](https://github.com/othneildrew/Best-README-Template)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
