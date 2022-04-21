@@ -1,145 +1,203 @@
-# isgood-webapp
-🎉  New isgood WebApp (re-)build for 2022 Launch  🚀 
+<div id="top"></div>
+<!--
+*** The isgood.ai ReadME is based on ->
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-___
-^
 
-^
 
-^
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://isgood.ai">
+    <img src=".github/images/isgood-sqr.jpg" alt="isgood glow Logo" width="80" height="80">
+  </a>
 
-^
+<h3 align="center">isgood.ai WebApp</h3>
 
-## below from Lagoon Starter Template Readme 
-> To be evolved, as the dev evolves
+  <p align="center">
+    🎉 New isgood WebApp (re-)build for 2022 Launch 🚀
+    <br />
+    <a href="https://docs.isgood.ai"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://docs.isgood.ai/product-outline#explainer-deck">Usage</a>
+    ·
+    <a href="https://github.com/for-good/isgood-webapp/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
+    ·
+    <a href="https://github.com/for-good/isgood-webapp/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
+  </p>
+</div>
 
-___
 
-## Base template for Drupal 9 projects hosted on Lagoon
 
-This template includes everything necessary to run on [Lagoon](https://www.github.com/uselagoon/lagoon) (in both the local development environments or on hosted Lagoon clusters.)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+<!--      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul> -->
+    </li>
+<!--    <li><a href="#usage">Usage</a></li> -->
+    <li><a href="#roadmap">Dev Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
-This project template should provide a kickstart for managing your site
-dependencies with [Composer](https://getcomposer.org/). It is based on the [original Drupal Composer Template](https://github.com/drupal-composer/drupal-project), 
 
-## Included Services
 
-This example contains the following services:
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](.github/images/isgood-github-grab.png)
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Please see our docs for the latest info @[docs.isgood.ai](https://docs.isgood.ai/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+ -->
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+We `build in public` and manage our **Dev Roadmap** as releases.
+
+Click to [View Roadmap Details »](https://docs.isgood.ai/releases).
+
+See the [open issues](https://github.com/for-good/isgood-webapp/issues) for a full list of current dev tasks, features and known issues.
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+We've had hundreds of contributors and partners over ~7 years of R&D and in market POCs; and, now we're delivering on all of that work and making it accessible through this WebApp.
+
+As an open source project, we LOVE contributions.  We have some info to get started in our [Contributors Guide »](https://docs.isgood.ai/welcome/contributing)
+
+You can also simply [open an issue](https://github.com/for-good/isgood-webapp/issues/new/choose), or [discuss stuff with us directly](https://github.com/for-good/isgood-webapp/discussions).
+
+We'd also love for you to join us at a community event (starting again soon) or through any of our social media to chat about how you can contribute to isgood!
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contacts
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Email][email-shield]][email-url]
+
+Max Lynam - [Connect on LinkedIn](https://www.linkedin.com/in/maxlynam/)
+
+Project Site: [https://isgood.ai](https://isgood.ai)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the GPL3.0 License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Current Dev & Tech Sponsors
+* [Amazee+Lagoon: Host & DevOps Sponsor](https://www.amazee.io/)
+* [Github: GitOps Sponsor](https://github.com)
+* [AWS: CloudInfra Sponsor](https://aws.amazon.com/)
+* [Gitbook: Docs Sponsor](https://gitbook.com)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Built With
+
+Initial starter services:
+* Lagoon
 * Drupal 9.2
 * PHP 8.0
 * NGINX
 * Postgres 11
 
-To see similar projects with additional services, please visit https://github.com/lagoon-examples and to find out more about the services, please visit the documentation at https://docs.lagoon.sh/lagoon
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Requirements
 
-* [docker](https://docs.docker.com/install/)
-* [pygmy](https://github.com/pygmystack/pygmy)
 
-<s>**OR**
-
-* [Lando](https://docs.lando.dev/basics/installation.html#system-requirements)</s>
-
-## Local environment setup - pygmy
-
-1. Checkout this project repo and confirm the path is in Docker's file sharing config - https://docs.docker.com/docker-for-mac/#file-sharing
-
-    ```bash
-    git clone https://github.com/lagoon-examples/isgood-webapp.git isgood-webapp && cd $_
-    ```
-
-2. Make sure you don't have anything running on port 80 on the host machine (like a web server) then run `pygmy up`
-
-3. Build and start the build images:
-
-    ```bash
-    docker-compose up -d
-    docker-compose exec cli composer install
-    ```
-
-4. Visit the new site @ `http://isgood-webapp.docker.amazee.io`
-
-* If any steps fail, you're safe to rerun from any point.
-Starting again from the beginning will just reconfirm the changes.
-
-<s>## Local environment setup - Lando
-
-This repository is set up with a `.lando.yml` file, which allows you to use Lando instead of pygmy for your local development environment.
-
-1. [Install Lando](https://docs.lando.dev/basics/installation.html#system-requirements).
-
-2. Checkout the project repo and confirm the path is in Docker's file sharing config - https://docs.docker.com/docker-for-mac/#file-sharing
-
-    ```bash
-    git clone https://github.com/lagoon-examples/isgood-webapp.git isgood-webapp && cd $_
-    ```
-
-3. Make sure you have pygmy stopped. Run `pygmy stop` to be sure.
-
-4. We already have a Lando file in this repository, so we just need to run the following command to get Lando up:
-
- ```bash
-lando start
-```
-
-5. Install your Drupal site with Drush:
-
-```bash
-lando drush si -y
-```
-
-6. Visit the new site @ `http://isgood-webapp.lndo.site`
- 
-7. For more information on how to configure your site, check out the [documentation](https://docs.lando.dev/config/lagoon.html).</s>
-
-## What does the template do?
-
-When installing the given `composer.json` some tasks are taken care of:
-
-* Drupal will be installed in the `web`-directory.
-* Autoloader is implemented to use the generated composer autoloader in `vendor/autoload.php`,
-  instead of the one provided by Drupal (`web/vendor/autoload.php`).
-* Modules (packages of type `drupal-module`) will be placed in `web/modules/contrib/`
-* Themes (packages of type `drupal-theme`) will be placed in `web/themes/contrib/`
-* Profiles (packages of type `drupal-profile`) will be placed in `web/profiles/contrib/`
-* Creates the `web/sites/default/files`-directory.
-* Latest version of [Drush](https://www.drush.org/latest/) is installed locally for use at `vendor/bin/drush`.
-* Latest version of [Drupal Console](http://www.drupalconsole.com) is installed locally for use at `vendor/bin/drupal`.
-* The correct scaffolding for your Drupal core version is installed, along with Lagoon-specific scaffolding from [amazeeio/drupal-integrations](https://github.com/amazeeio/drupal-integrations) project and the `assets/` directory in this repo.  For more information see [drupal/core-composer-scaffold](https://github.com/drupal/core-composer-scaffold)
-
-## Updating Drupal Core
-
-Follow the steps below to update your core files. Scaffolding is managed by Drupal core. See the `assets/` directory for more information. 
-
-1. Run `composer update drupal/core-recommended drupal/core-dev-pinned --with-dependencies`
-
-## FAQ
-
-### Should I commit the contrib modules I download?
-
-Composer recommends **no**. They provide [argumentation against but also
-workarounds if a project decides to do it anyway](https://getcomposer.org/doc/faqs/should-i-commit-the-dependencies-in-my-vendor-directory.md).
-
-### How can I apply patches to downloaded modules?
-
-If you need to apply patches (depending on the project being modified, a pull
-request is often a better solution), you can do so with the
-[composer-patches](https://github.com/cweagans/composer-patches) plugin.
-
-To add a patch to drupal module foobar insert the patches section in the extra
-section of composer.json:
-
-```json
-"extra": {
-    "patches": {
-        "drupal/foobar": {
-            "Patch description": "URL to patch"
-        }
-    }
-}
-```
-
-### What are the "TESTING" files in this repo?
-
-These files are used by Github actions to run a basic suite of tests specific to this template.  They utilise the excellent [Leia](https://github.com/lando/leia) tool to generate a set of mocha-compatible tests.  Have a look through the markdown for both files, and you will see what they do. These tests can also be generated and run locally.
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/for-good/isgood-webapp.svg?style=for-the-badge
+[contributors-url]: https://github.com/for-good/isgood-webapp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/for-good/isgood-webapp.svg?style=for-the-badge
+[forks-url]: https://github.com/for-good/isgood-webapp/network/members
+[stars-shield]: https://img.shields.io/github/stars/for-good/isgood-webapp.svg?style=for-the-badge
+[stars-url]: https://github.com/for-good/isgood-webapp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/for-good/isgood-webapp.svg?style=for-the-badge
+[issues-url]: https://github.com/for-good/isgood-webapp/issues
+[license-shield]: https://img.shields.io/github/license/for-good/isgood-webapp.svg?style=for-the-badge
+[license-url]: https://github.com/for-good/isgood-webapp/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/company/isgoodai/
+[email-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[email-url]: support@isgood.ai
+[product-screenshot]: .github/images/isgood-github-grab.png
