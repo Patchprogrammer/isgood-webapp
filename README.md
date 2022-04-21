@@ -105,16 +105,13 @@ See the [open issues](https://github.com/for-good/isgood-webapp/issues) for a fu
 <!-- CONTRIBUTING -->
 ## Contributing
 
-As an open source project, we LOVE contributions.
+We've had hundreds of contributors and partners over ~7 years of R&D and in market POCs; and, now we're delivering on all of that work and making it accessible through this WebApp.
 
-We have some info to get started in our [Contributors Guide »](https://docs.isgood.ai/welcome/contributing)
+As an open source project, we LOVE contributions.  We have some info to get started in our [Contributors Guide »](https://docs.isgood.ai/welcome/contributing)
 
 You can also simply [open an issue](https://github.com/for-good/isgood-webapp/issues/new/choose), or [discuss stuff with us directly](https://github.com/for-good/isgood-webapp/discussions).
 
 We'd also love for you to join us at a community event (starting again soon) or through any of our social media to chat about how you can contribute to isgood!
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- PROJECT SHIELDS -->
@@ -130,13 +127,7 @@ We'd also love for you to join us at a community event (starting again soon) or 
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the GPL3.0 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,9 +136,22 @@ Distributed under the GPL3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contacts
 
-Max Lynam - [Connect on LinkedIn](https://www.linkedin.com/in/maxlynam/) - email via support@isgood.ai
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Email][email-shield]][email-url]
+
+Max Lynam - [Connect on LinkedIn](https://www.linkedin.com/in/maxlynam/)
 
 Project Site: [https://isgood.ai](https://isgood.ai)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the GPL3.0 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -192,6 +196,8 @@ Initial starter services:
 [issues-url]: https://github.com/for-good/isgood-webapp/issues
 [license-shield]: https://img.shields.io/github/license/for-good/isgood-webapp.svg?style=for-the-badge
 [license-url]: https://github.com/for-good/isgood-webapp/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/company/isgoodai/
+[email-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[email-url]: support@isgood.ai
 [product-screenshot]: .github/images/isgood-github-grab.png
